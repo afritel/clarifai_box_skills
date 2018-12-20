@@ -1,2 +1,2 @@
 // Clarifai configuration information
-const clarifaiKey = exports.clarifaiKey = 'be4dfcc545bf4b06b94e2a9efaf9cb72';
+const clarifaiKey = exports.clarifaiKey = 'b9d14de700014d80995fafbd5b936bb4';
